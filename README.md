@@ -5,6 +5,7 @@
 - 책 구매: [한빛미디어](https://www.hanbit.co.kr) (출간 후 도서 상세 페이지로 교체 예정)
 - 저자: 홍순성(홍작가) · HONGS LAB · https://sshong.com
 - 기준 버전: v1.0 (초판 기준)
+- 독자 단톡방: [AI 책쓰기: 집필의 기술](https://open.kakao.com/o/ghqbvP0h) (카카오톡 오픈채팅)
 
 ## 이 저장소에 있는 것
 
@@ -121,4 +122,5 @@
 ## 문의와 라이선스
 
 - 스킬 오류나 설치 문제는 이 저장소의 **Issues**에 남겨 주세요.
+- 사용 질문과 활용 사례는 카카오톡 오픈채팅 [AI 책쓰기: 집필의 기술](https://open.kakao.com/o/ghqbvP0h)에서 나눕니다.
 - 라이선스: [LICENSE](./LICENSE) 참조
